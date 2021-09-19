@@ -1,4 +1,4 @@
-# Xdebug-OS-Command-Execution
+# Xdebug Command Execution
 
 ## Descripción
 Exploit que permite la ejecución de código remoto debido al uso de la tecnología Xdebug de versión 2.5.5 y anteriores
